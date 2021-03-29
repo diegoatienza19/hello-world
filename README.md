@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+
+Hello!
+
+i made this for our activity.
